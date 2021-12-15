@@ -1,0 +1,114 @@
+/*<---------------------------------Header--------------------------------->*/
+.login {
+    background-color: #0d6efd;
+    box-shadow: 2px 2px 5px 2px grey;
+    border-radius: 10%;
+    text-decoration: none;
+    color: white;
+    padding: 0.5%;
+    display: flex;
+    justify-content: flex-start;
+    margin: 1%;
+}
+
+.register {
+
+    box-shadow: 2px 2px 5px 2px grey;
+    border-radius: 10%;
+    text-decoration: none;
+    color: navy;
+    padding: 0.5%;
+    display: flex;
+    justify-content: flex-start;
+    margin: 1%;
+}
+
+.deco {
+    box-shadow: 2px 2px 5px 2px grey;
+    border-radius: 10%;
+    text-decoration: none;
+    color: navy;
+    padding: 0.5%;
+    display: flex;
+    justify-content: flex-start;
+    margin: 1%;
+}
+
+.login:hover {
+    background-color: navy;
+    color: white;
+}
+
+.deco:hover {
+    transition-property: all;
+    transition-duration: 1s;
+    background-color: lightblue;
+    color: midnightblue;
+}
+
+.register:hover {
+    transition-property: all;
+    transition-duration: 1s;
+    background-color: lightblue;
+    color: midnightblue;
+}
+
+/*<---------------------------------Header--------------------------------->*/
+
+/*<---------------------------------Index--------------------------------->*/
+body {
+    background-color : #eeeeee;
+}
+.accueil {
+    margin:10%;
+    margin-left:30%;
+}
+.accueil h1 {
+    color: navy;
+    padding:1%;
+}
+
+/*<---------------------------------Index--------------------------------->*/
+
+/*<---------------------------------Livre d'or--------------------------------->*/
+
+.info {
+    background-color:navy;
+    padding : 1%;
+    text-align: center;
+    color : white;
+}
+.txt {
+    background-color:white;
+    padding : 1%;
+    text-align: center;
+    color: navy;
+}
+.commentaire {
+    border : 2px solid navy;
+    max-width : 70%;
+    margin-left : 15%;
+}
+
+/*<---------------------------------Livre d'or--------------------------------->*/
+
+/*<---------------------------------Commentaire--------------------------------->*/
+
+.form_com {
+    margin-top: 15%;
+    margin-left: 35%;
+}
+.texte {
+    width : 50%;
+    height : 50%;
+    border : 3px solid burlywood;
+}
+#btn {
+    margin-left: 22%;
+    margin-top: 5%;
+}
+.jolie {
+    color: #0d6efd;
+    margin : 1%;
+}
+/*<---------------------------------Commentaire--------------------------------->*/
